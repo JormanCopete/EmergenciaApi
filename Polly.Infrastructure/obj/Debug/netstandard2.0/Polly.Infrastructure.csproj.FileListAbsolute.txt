@@ -1,0 +1,52 @@
+E:\projects\Polly\Polly.Infrastructure\bin\Debug\netstandard2.0\Polly.Infrastructure.deps.json
+E:\projects\Polly\Polly.Infrastructure\bin\Debug\netstandard2.0\Polly.Infrastructure.dll
+E:\projects\Polly\Polly.Infrastructure\bin\Debug\netstandard2.0\Polly.Infrastructure.pdb
+E:\projects\Polly\Polly.Infrastructure\bin\Debug\netstandard2.0\Polly.Core.dll
+E:\projects\Polly\Polly.Infrastructure\bin\Debug\netstandard2.0\Polly.Core.pdb
+E:\projects\Polly\Polly.Infrastructure\obj\Debug\netstandard2.0\Polly.Infrastructure.csproj.AssemblyReference.cache
+E:\projects\Polly\Polly.Infrastructure\obj\Debug\netstandard2.0\Polly.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\Polly\Polly.Infrastructure\obj\Debug\netstandard2.0\Polly.Infrastructure.AssemblyInfoInputs.cache
+E:\projects\Polly\Polly.Infrastructure\obj\Debug\netstandard2.0\Polly.Infrastructure.AssemblyInfo.cs
+E:\projects\Polly\Polly.Infrastructure\obj\Debug\netstandard2.0\Polly.Infrastructure.csproj.CoreCompileInputs.cache
+E:\projects\Polly\Polly.Infrastructure\obj\Debug\netstandard2.0\Polly.Infrastructure.csproj.CopyComplete
+E:\projects\Polly\Polly.Infrastructure\obj\Debug\netstandard2.0\Polly.Infrastructure.dll
+E:\projects\Polly\Polly.Infrastructure\obj\Debug\netstandard2.0\Polly.Infrastructure.pdb
+D:\AplicacionesWeb\Polly\Polly.Infrastructure\bin\Debug\netstandard2.0\Polly.Infrastructure.deps.json
+D:\AplicacionesWeb\Polly\Polly.Infrastructure\bin\Debug\netstandard2.0\Polly.Infrastructure.dll
+D:\AplicacionesWeb\Polly\Polly.Infrastructure\bin\Debug\netstandard2.0\Polly.Infrastructure.pdb
+D:\AplicacionesWeb\Polly\Polly.Infrastructure\bin\Debug\netstandard2.0\Polly.Core.dll
+D:\AplicacionesWeb\Polly\Polly.Infrastructure\bin\Debug\netstandard2.0\Polly.Core.pdb
+D:\AplicacionesWeb\Polly\Polly.Infrastructure\obj\Debug\netstandard2.0\Polly.Infrastructure.csproj.AssemblyReference.cache
+D:\AplicacionesWeb\Polly\Polly.Infrastructure\obj\Debug\netstandard2.0\Polly.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\AplicacionesWeb\Polly\Polly.Infrastructure\obj\Debug\netstandard2.0\Polly.Infrastructure.AssemblyInfoInputs.cache
+D:\AplicacionesWeb\Polly\Polly.Infrastructure\obj\Debug\netstandard2.0\Polly.Infrastructure.AssemblyInfo.cs
+D:\AplicacionesWeb\Polly\Polly.Infrastructure\obj\Debug\netstandard2.0\Polly.Infrastructure.csproj.CoreCompileInputs.cache
+D:\AplicacionesWeb\Polly\Polly.Infrastructure\obj\Debug\netstandard2.0\Polly.Infrastructure.csproj.CopyComplete
+D:\AplicacionesWeb\Polly\Polly.Infrastructure\obj\Debug\netstandard2.0\Polly.Infrastructure.dll
+D:\AplicacionesWeb\Polly\Polly.Infrastructure\obj\Debug\netstandard2.0\Polly.Infrastructure.pdb
+E:\Especalizacion IA\Despliegue de Modelo ML\Proyecto final completo\Polly\Polly.Infrastructure\obj\Debug\netstandard2.0\Polly.Infrastructure.csproj.AssemblyReference.cache
+E:\Especalizacion IA\Despliegue de Modelo ML\Proyecto final completo\Polly\Polly.Infrastructure\obj\Debug\netstandard2.0\Polly.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Especalizacion IA\Despliegue de Modelo ML\Proyecto final completo\Polly\Polly.Infrastructure\obj\Debug\netstandard2.0\Polly.Infrastructure.AssemblyInfoInputs.cache
+E:\Especalizacion IA\Despliegue de Modelo ML\Proyecto final completo\Polly\Polly.Infrastructure\obj\Debug\netstandard2.0\Polly.Infrastructure.AssemblyInfo.cs
+E:\Especalizacion IA\Despliegue de Modelo ML\Proyecto final completo\Polly\Polly.Infrastructure\obj\Debug\netstandard2.0\Polly.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Especalizacion IA\Despliegue de Modelo ML\Proyecto final completo\Polly\Polly.Infrastructure\obj\Debug\netstandard2.0\Polly.Infrastructure.dll
+E:\Especalizacion IA\Despliegue de Modelo ML\Proyecto final completo\Polly\Polly.Infrastructure\obj\Debug\netstandard2.0\Polly.Infrastructure.pdb
+E:\Especalizacion IA\Despliegue de Modelo ML\Proyecto final completo\Polly\Polly.Infrastructure\bin\Debug\netstandard2.0\Polly.Infrastructure.deps.json
+E:\Especalizacion IA\Despliegue de Modelo ML\Proyecto final completo\Polly\Polly.Infrastructure\bin\Debug\netstandard2.0\Polly.Infrastructure.dll
+E:\Especalizacion IA\Despliegue de Modelo ML\Proyecto final completo\Polly\Polly.Infrastructure\bin\Debug\netstandard2.0\Polly.Infrastructure.pdb
+E:\Especalizacion IA\Despliegue de Modelo ML\Proyecto final completo\Polly\Polly.Infrastructure\bin\Debug\netstandard2.0\Polly.Core.dll
+E:\Especalizacion IA\Despliegue de Modelo ML\Proyecto final completo\Polly\Polly.Infrastructure\bin\Debug\netstandard2.0\Polly.Core.pdb
+E:\Especalizacion IA\Despliegue de Modelo ML\Proyecto final completo\Polly\Polly.Infrastructure\obj\Debug\netstandard2.0\Polly.Infrastructure.csproj.CopyComplete
+E:\Especalizacion IA\Despliegue de Modelo ML\Proyecto final completo\EmergenciaApi\Polly.Infrastructure\bin\Debug\netstandard2.0\Polly.Infrastructure.deps.json
+E:\Especalizacion IA\Despliegue de Modelo ML\Proyecto final completo\EmergenciaApi\Polly.Infrastructure\bin\Debug\netstandard2.0\Polly.Infrastructure.dll
+E:\Especalizacion IA\Despliegue de Modelo ML\Proyecto final completo\EmergenciaApi\Polly.Infrastructure\bin\Debug\netstandard2.0\Polly.Infrastructure.pdb
+E:\Especalizacion IA\Despliegue de Modelo ML\Proyecto final completo\EmergenciaApi\Polly.Infrastructure\bin\Debug\netstandard2.0\Polly.Core.dll
+E:\Especalizacion IA\Despliegue de Modelo ML\Proyecto final completo\EmergenciaApi\Polly.Infrastructure\bin\Debug\netstandard2.0\Polly.Core.pdb
+E:\Especalizacion IA\Despliegue de Modelo ML\Proyecto final completo\EmergenciaApi\Polly.Infrastructure\obj\Debug\netstandard2.0\Polly.Infrastructure.csproj.AssemblyReference.cache
+E:\Especalizacion IA\Despliegue de Modelo ML\Proyecto final completo\EmergenciaApi\Polly.Infrastructure\obj\Debug\netstandard2.0\Polly.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Especalizacion IA\Despliegue de Modelo ML\Proyecto final completo\EmergenciaApi\Polly.Infrastructure\obj\Debug\netstandard2.0\Polly.Infrastructure.AssemblyInfoInputs.cache
+E:\Especalizacion IA\Despliegue de Modelo ML\Proyecto final completo\EmergenciaApi\Polly.Infrastructure\obj\Debug\netstandard2.0\Polly.Infrastructure.AssemblyInfo.cs
+E:\Especalizacion IA\Despliegue de Modelo ML\Proyecto final completo\EmergenciaApi\Polly.Infrastructure\obj\Debug\netstandard2.0\Polly.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Especalizacion IA\Despliegue de Modelo ML\Proyecto final completo\EmergenciaApi\Polly.Infrastructure\obj\Debug\netstandard2.0\Polly.Infrastructure.csproj.CopyComplete
+E:\Especalizacion IA\Despliegue de Modelo ML\Proyecto final completo\EmergenciaApi\Polly.Infrastructure\obj\Debug\netstandard2.0\Polly.Infrastructure.dll
+E:\Especalizacion IA\Despliegue de Modelo ML\Proyecto final completo\EmergenciaApi\Polly.Infrastructure\obj\Debug\netstandard2.0\Polly.Infrastructure.pdb

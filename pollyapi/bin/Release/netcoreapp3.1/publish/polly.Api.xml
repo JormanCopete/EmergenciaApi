@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>polly.Api</name>
+    </assembly>
+    <members>
+        <member name="M:polly.Api.Controllers.General.GenAssociatedUsersController.GetGenAssociatedUsers(Polly.Core.QueryFilters.General.GenAssociatedUserQueryFilter)">
+            <summary>
+            Retrieve all GenAssociatedUser
+            </summary>
+            <param name="filter"></param>
+            <returns></returns>
+        </member>
+        <member name="M:polly.Api.Controllers.General.GenParameterBoxsController.GetGenParameterBoxs(Polly.Core.QueryFilters.General.GenParameterBoxQueryFilter)">
+            <summary>
+            Retrieve all GenParameterBox
+            </summary>
+            <param name="filter"></param>
+            <returns></returns>
+        </member>
+        <member name="M:polly.Api.Controllers.General.GenParameterResolutionsController.GetGenParameterResolutions(Polly.Core.QueryFilters.General.GenParameterResolutionQueryFilter)">
+            <summary>
+            Retrieve all GenParameterResolution
+            </summary>
+            <param name="filter"></param>
+            <returns></returns>
+        </member>
+        <member name="M:polly.Api.Controllers.ML.emergencia_detallesController.Getemergencia_detalles(Polly.Core.QueryFilters.ML.emergencia_detalleQueryFilter)">
+            <summary>
+            Retrieve all emergencia_detalle
+            </summary>
+            <param name="filter"></param>
+            <returns></returns>
+        </member>
+        <member name="M:polly.Api.Controllers.ML.emergencia_resumensController.Getemergencia_resumens(Polly.Core.QueryFilters.ML.emergencia_resumenQueryFilter)">
+            <summary>
+            Retrieve all emergencia_resumen
+            </summary>
+            <param name="filter"></param>
+            <returns></returns>
+        </member>
+        <member name="M:polly.Api.Controllers.Wallet.CopConcar12sController.GetCopConcar12s(Polly.Core.QueryFilters.Wallet.CopConcar12QueryFilter)">
+            <summary>
+            Retrieve all CopConcar12
+            </summary>
+            <param name="filter"></param>
+            <returns></returns>
+        </member>
+        <member name="M:polly.Api.Controllers.Wallet.CopExtrasController.GetCopExtras(Polly.Core.QueryFilters.Wallet.CopExtrasQueryFilter)">
+            <summary>
+            Retrieve all CopExtras
+            </summary>
+            <param name="filter"></param>
+            <returns></returns>
+        </member>
+        <member name="M:polly.Api.Controllers.Wallet.CopMaecarsController.GetCopMaecars(Polly.Core.QueryFilters.Wallet.CopMaecarQueryFilter)">
+            <summary>
+            Retrieve all CopMaecar
+            </summary>
+            <param name="filter"></param>
+            <returns></returns>
+        </member>
+        <member name="M:polly.Api.Controllers.Wallet.CopMovimtoresController.GetCopMovimtores(Polly.Core.QueryFilters.Wallet.CopMovimtoresQueryFilter)">
+            <summary>
+            Retrieve all CopMovimtores
+            </summary>
+            <param name="filter"></param>
+            <returns></returns>
+        </member>
+        <member name="M:polly.Api.Controllers.Wallet.CopSalextrasController.GetCopSalextras(Polly.Core.QueryFilters.Wallet.CopSalextrasQueryFilter)">
+            <summary>
+            Retrieve all CopSalextras
+            </summary>
+            <param name="filter"></param>
+            <returns></returns>
+        </member>
+        <member name="M:polly.Api.Controllers.Wallet.CopSalmaecarsController.GetCopSalmaecars(Polly.Core.QueryFilters.Wallet.CopSalmaecarQueryFilter)">
+            <summary>
+            Retrieve all CopSalmaecar
+            </summary>
+            <param name="filter"></param>
+            <returns></returns>
+        </member>
+        <member name="M:polly.Api.Controllers.Wallet.WalAgreementsController.GetWalAgreements(Polly.Core.QueryFilters.Wallet.WalAgreementQueryFilter)">
+            <summary>
+            Retrieve all WalAgreement
+            </summary>
+            <param name="filter"></param>
+            <returns></returns>
+        </member>
+        <member name="M:polly.Api.Controllers.Wallet.WalAidsController.GetWalAids(Polly.Core.QueryFilters.Wallet.WalAidQueryFilter)">
+            <summary>
+            Retrieve all WalAid
+            </summary>
+            <param name="filter"></param>
+            <returns></returns>
+        </member>
+        <member name="M:polly.Api.Controllers.Wallet.WalNewssController.GetWalNewss(Polly.Core.QueryFilters.Wallet.WalNewsQueryFilter)">
+            <summary>
+            Retrieve all WalNews
+            </summary>
+            <param name="filter"></param>
+            <returns></returns>
+        </member>
+        <member name="M:polly.Api.Controllers.Wallet.WalPromotionssController.GetWalPromotionss(Polly.Core.QueryFilters.Wallet.WalPromotionsQueryFilter)">
+            <summary>
+            Retrieve all WalPromotions
+            </summary>
+            <param name="filter"></param>
+            <returns></returns>
+        </member>
+        <member name="M:polly.Api.Controllers.Wallet.WalSerCresController.GetWalSerCres(Polly.Core.QueryFilters.Wallet.WalSerCreQueryFilter)">
+            <summary>
+            Retrieve all WalSerCre
+            </summary>
+            <param name="filter"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

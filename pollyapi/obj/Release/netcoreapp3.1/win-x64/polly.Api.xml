@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>polly.Api</name>
+    </assembly>
+    <members>
+        <member name="M:polly.Api.Controllers.ML.emergencia_detallesController.Getemergencia_detalles(Polly.Core.QueryFilters.ML.emergencia_detalleQueryFilter)">
+            <summary>
+            Retrieve all emergencia_detalle
+            </summary>
+            <param name="filter"></param>
+            <returns></returns>
+        </member>
+        <member name="M:polly.Api.Controllers.ML.emergencia_resumensController.Getemergencia_resumens(Polly.Core.QueryFilters.ML.emergencia_resumenQueryFilter)">
+            <summary>
+            Retrieve all emergencia_resumen
+            </summary>
+            <param name="filter"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
